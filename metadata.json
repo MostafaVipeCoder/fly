@@ -1,0 +1,6 @@
+{
+  "name": "حجز تذاكر طيران مصر | Egypt Flight Booking",
+  "description": "منصة شاملة لحجز تذاكر الطيران الداخلي والدولي في مصر، واختيار المقاعد، وإصدار بطاقات الصعود وتتبع الرحلات المباشرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
